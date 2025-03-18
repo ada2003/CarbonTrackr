@@ -1,8 +1,8 @@
 
 # CarbonTrackr
+The CarbonTrackr website is a minimal proof-of-concept application designed to help users track and offset their carbon footprint through travel activities. 
+# live :https://carbon-trackr.vercel.app/
 
-A minimal proof-of-concept web application that helps users track and offset their carbon footprint using AI recommendations.
-#live :https://carbon-trackr.vercel.app/
 ## Features
 ### Core Features
 
@@ -18,6 +18,19 @@ A minimal proof-of-concept web application that helps users track and offset the
    - Stores calculations and recommendations in local storage (browser)
    - Option to view history of previous calculations
 
+# 1. Carbon Footprint Calculator
+
+Transport Mode Selection: Users can select their mode of transportation (car, bus, train, or airplane) from a dropdown menu.
+Distance Input: Users enter the distance traveled in kilometers.
+Calculation Logic: The application uses predefined emission factors for each transport mode to calculate carbon footprint:
+
+Car: 0.192 kg CO2 per km
+Bus: 0.105 kg CO2 per km
+Train: 0.041 kg CO2 per km
+
+
+
+Result Display: After clicking "Calculate," the application displays the carbon footprint in kilograms of CO2.
 ### Technical Implementation
 
 - **Frontend**: React with Bootstarp components
