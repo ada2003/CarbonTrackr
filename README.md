@@ -86,8 +86,10 @@ npm start
 - Express
 - OpenAI API for advanced recommendations
 
-## Acknowledgements
+## Output
 
 - OpenAI for AI technology
+- ![image](https://github.com/user-attachments/assets/cd052d99-ddce-4140-b2fb-003ad3c56a85)
+
 ![image](https://github.com/user-attachments/assets/4e43b2f2-0642-4f1d-b215-4868ca40224f)
 
