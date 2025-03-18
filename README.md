@@ -2,6 +2,7 @@
 # CarbonTrackr
 
 A minimal proof-of-concept web application that helps users track and offset their carbon footprint using AI recommendations.
+#live :https://carbon-trackr.vercel.app/
 ## Features
 ### Core Features
 
